@@ -4,7 +4,8 @@ A modern web application that helps you improve your AI prompts for better resul
 
 **Live Demo**: [https://yorkiedev.github.io/PromptEnhancer/](https://yorkiedev.github.io/PromptEnhancer/)
 
-![Prompt Enhancer Screenshot](./screenshots/screenshot.png)
+![image](https://github.com/user-attachments/assets/40bf4a53-1e06-4bb2-a40e-003672e8535a)
+
 
 ## Features
 
