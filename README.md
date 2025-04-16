@@ -2,7 +2,6 @@
 
 A modern web application that helps you improve your AI prompts for better results with large language models.
 
-**Live Demo**: [https://yorkiedev.github.io/PromptEnhancer/](https://yorkiedev.github.io/PromptEnhancer/)
 
 ![image](https://github.com/user-attachments/assets/40bf4a53-1e06-4bb2-a40e-003672e8535a)
 
